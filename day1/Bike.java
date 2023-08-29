@@ -9,6 +9,7 @@ public class Bike {
 		public void soundhorn(String loud) {
 			
 			System.out.println("loud"+ loud);
+			System.out.println("loud"+ loud);
 		}
 		
 		public static void main(String[] args) {
