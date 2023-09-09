@@ -16,6 +16,7 @@ public class Bike {
 			Bike fz=new Bike();
 			fz.applybreak(5);
 	        fz.soundhorn(null);
+			System.out.println(fz);
 		}
 
 	}
